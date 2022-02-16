@@ -22,6 +22,3 @@
 
 <br>
 <br>
-
-## Obrigado
-<p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
