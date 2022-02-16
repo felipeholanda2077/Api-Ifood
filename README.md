@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Aplicativo criado no curso de react native da digital innovation one
+    Aplicativo criado no curso de react native da digital innovation one criando uma api em Java Script
 </p>
 
 
@@ -24,4 +24,4 @@
 <br>
 
 ## Obrigado
-<p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://linkedin.com/in/pablohev), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
+<p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
