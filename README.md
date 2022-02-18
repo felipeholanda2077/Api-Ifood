@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    IFOOD CLONE 
+    IFOOD CLONE - Felipe Holanda
 </h1>
 
 <p align="center">
