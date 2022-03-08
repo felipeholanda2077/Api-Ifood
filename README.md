@@ -9,7 +9,7 @@
 
 <p aling="center">Esse projeto...</p>
 <a href="#EndPoints">EndePoints</a> •
-<a href="#Tecnologias">Tecnologias</a> •
+<a href="#Tecnologias 🚀">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
 
 <br>
