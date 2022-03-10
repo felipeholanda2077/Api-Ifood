@@ -24,7 +24,7 @@
 
 <h2 align="center">EndPoints</h2>
 
-<p align="center">Para consumir dados usamos uma api fake, usando os seguintes endpoints</p>
+<p align="center">Para consumir dados usamos uma api fake, usando os seguintes endpoints
 
 | NOME         | ENDPOINT                                                                      |
 | ------------ | ----------------------------------------------------------------------------- |
@@ -32,6 +32,7 @@
 | BANNERS      | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/banner_principal |
 | CATEGORIAS   | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/categorias       |
 | RESTAURANTES | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/restaurantes     |
+   </p>
 
 <br>
 <h1></h1>
