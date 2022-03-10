@@ -34,6 +34,7 @@
 | RESTAURANTES | http://my-json-server.typicode.com/pablohdev/app-ifood-clone/restaurantes     |
 
 <br>
+<h1></h1>
 <br>
 
 <h3 align="center">Tecnologias 🚀</h3>
