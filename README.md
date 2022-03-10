@@ -14,9 +14,9 @@
 </p>
 
 <p aling="center">Esse projeto...</p>
-<a href="#EndPoints">EndePoints</a> •
+<p aling="center"><a href="#EndPoints">EndePoints</a> •
 <a href="#Tecnologias 🚀">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
+<a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
 <br>
