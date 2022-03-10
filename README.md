@@ -37,7 +37,7 @@
 <h1></h1>
 <br>
 
-<h3 align="center">Tecnologias 🚀</h3>
+<h3>Tecnologias 🚀</h3>
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
