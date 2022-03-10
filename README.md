@@ -13,7 +13,7 @@
     Aplicativo criado no curso de react native da digital innovation one criando uma api em Java Script
 </p>
 
-<p aling="center">Esse projeto...</p>
+<p aling="center">Índice...</p>
 <p aling="center"><a href="#EndPoints">EndePoints</a> •
 <a href="#Tecnologias 🚀">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
