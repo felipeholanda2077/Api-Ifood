@@ -22,9 +22,9 @@
 <br>
 
 
-## EndPoints
+<h2 align="center">EndPoints</h2>
 
-<p>Para consumir dados usamos uma api fake, usando os seguintes endpoints<p>
+<p align="center">Para consumir dados usamos uma api fake, usando os seguintes endpoints</p>
 
 | NOME         | ENDPOINT                                                                      |
 | ------------ | ----------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-  ### Tecnologias 🚀
+<h3 align="center">Tecnologias 🚀</h3>
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
